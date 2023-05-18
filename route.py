@@ -1,6 +1,5 @@
 import requests
 from database import get_data_from_database
-from config import Config
 from naver_api import get_route
 
 #최적 경로 도출
